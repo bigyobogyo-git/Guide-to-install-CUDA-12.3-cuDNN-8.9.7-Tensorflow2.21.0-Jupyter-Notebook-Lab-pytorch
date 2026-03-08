@@ -67,8 +67,6 @@ or
 
 $  https://virtualenv.pypa.io/en/latest/
 
-Start a new terminal!
-
 Create a virtualenv and activate it. 
 
 $  https://virtualenv.pypa.io/en/latest/user_guide.html
